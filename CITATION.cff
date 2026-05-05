@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: Lightweight Evaluation and Operational Scorecards for Tool-Using AI Agents
+message: Please cite this artifact using the metadata below.
+type: dataset
+authors:
+  - family-names: Katta
+    given-names: Mukunda Rao
+repository-code: https://github.com/MukundaKatta/MukundaKatta
+url: https://huggingface.co/collections/mukunda1729/agent-labs-portfolio
+keywords:
+  - AI agents
+  - evaluation
+  - scorecards
+  - tool use
+  - LLM reliability
+license: Apache-2.0
